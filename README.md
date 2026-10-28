@@ -86,10 +86,20 @@ A luxury ladies' fashion e-commerce project focused on elegant design and Fireba
 
 ## 📊 GitHub Stats
 
+
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=rajaakhani-dev&show_icons=true&theme=radical&hide_border=true" alt="Raja Akhani GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajaakhani-dev&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" />
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=rajaakhani-dev&show_icons=true&theme=radical&hide_border=true"
+    alt="GitHub Statistics"
+  />
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajaakhani-dev&layout=compact&theme=radical&hide_border=true&langs_count=6"
+    alt="Most Used Languages"
+  />
 </p>
+
 
 ---
 
